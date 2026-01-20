@@ -20,7 +20,7 @@ Source: IBM Telco Customer Churn Dataset
 
 Access Method: Loaded directly via public dataset URL using Pandas
 
-Size: ~7,000 customers with demographic, service, and billing details
+
 
 Key Features:
 
